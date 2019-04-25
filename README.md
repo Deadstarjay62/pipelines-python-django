@@ -1,5 +1,5 @@
 # Sample Python app for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/jasonisjayjay62/ChainAdvisors/_apis/build/status/Deadstarjay62.pipelines-python-django?branchName=master)](https://dev.azure.com/jasonisjayjay62/ChainAdvisors/_build/latest?definitionId=1&branchName=master)
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
